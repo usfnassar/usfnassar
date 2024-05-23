@@ -20,7 +20,7 @@ Let's connect, collaborate, and build amazing Flutter apps together! Feel free t
 
 
 <h1 align="center">Hi 👋, I'm Youssef Nassar</h1>
-<h3 align="center">A passionate Flutter developer from Egypt.</h3>
+<h3 align="center">Hey there! I'm Youssef Nassar, a passionate Flutter developer on a journey to explore the world of mobile app development. Currently diving deep into Flutter, I've mastered the basics and state management techniques and am now eagerly learning more advanced concepts and best practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usfnassar&label=Profile%20views&color=0e75b6&style=flat" alt="usfnassar" /> </p>
 
