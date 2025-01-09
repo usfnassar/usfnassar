@@ -26,5 +26,3 @@ Let's connect, collaborate, and build amazing Flutter apps together! Feel free t
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usfnassar&show_icons=true&locale=en&layout=compact" alt="usfnassar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usfnassar&show_icons=true&locale=en" alt="usfnassar" /></p>
-
